@@ -1,2 +1,4 @@
 Mis on github?
 Github on veebimajutusplatvorm versioonihalduseks ja ühistöödeks ning on loodud õpilastele ning projekti loomis vajadusega.
+Kuidas ja kus saad Sina edaspidi kasutada GitHubi?
+Mina saan kasutada githubi näiteks lõputöö tegemisel, kui on vaja hallata mahukat paberimajandust. Veel on hea skriptide loomisel kasutada siis on võimalik hoida vanad skripti versioonid alles ning neid taastada.
