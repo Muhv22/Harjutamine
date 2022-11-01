@@ -2,3 +2,4 @@ Mis on github?
 Github on veebimajutusplatvorm versioonihalduseks ja ühistöödeks ning on loodud õpilastele ning projekti loomis vajadusega.
 Kuidas ja kus saad Sina edaspidi kasutada GitHubi?
 Mina saan kasutada githubi näiteks lõputöö tegemisel, kui on vaja hallata mahukat paberimajandust. Veel on hea skriptide loomisel kasutada siis on võimalik hoida vanad skripti versioonid alles ning neid taastada.
+GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara. GitHub on Microsofti tütarfirma alates aastast 2018, mil Microsoft ostis GitHubi 7,5 miljardi dollari eest. GitHub põhineb Giti hajutatud versioonihaldusel ja lähtekoodihaldusel, kuid lisab neile veel võimalusi, näiteks võimalust kontrollida, kes pääseb koodile juurde, koodi veakontrolli, tarkvara funktsioonide taotlust ning igale projektile oma vikit. GitHub on kirjutatud Rubys ning baseerub Ruby on Railsi raamistikul.
